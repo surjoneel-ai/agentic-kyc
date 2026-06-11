@@ -1,0 +1,6 @@
+KYC Form
+Name: John Doe
+PAN: ABCDE1234F
+DOB: 01-01-1990
+Address: 123 Main St, Bangalore
+Phone: +91-9876543210

@@ -1,0 +1,5 @@
+ID Document (Aadhaar)
+ID Number: 123456789012
+Name: John Doe
+DOB: 01-01-1990
+Status: Valid
